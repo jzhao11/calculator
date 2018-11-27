@@ -1,3 +1,3 @@
-# calculator with UI
-# Student Name  : Jianfei Zhao
-# Student Email : jzhao11@mail.sfsu.edu
+# Software Development Project: Calculator
+# Author: Jianfei Zhao
+# Email: christianz0991@gmail.com
